@@ -12,7 +12,13 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
 </p>
 
-
-<a href="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
-</a>
+</br>
+</br>
+</br>
+</br>
+</br>
+<div align="center"?
+  <a href="https://github.com/Jiseong-Ok">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
+  </a>
+</div>
