@@ -13,6 +13,6 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
 </a>
