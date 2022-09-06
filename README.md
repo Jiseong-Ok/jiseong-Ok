@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jiseong-Ok&fontSize=40)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jiseong403@gmail.com)
-
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](mailto:https://www.kaggle.com/jiseongok)
 <h3 align="center"><b> Hi there 👋, Keep going 😄</b></h3>
 
 
