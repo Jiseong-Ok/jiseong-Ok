@@ -27,5 +27,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
   </a>
 </div>
-
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiseong403">
