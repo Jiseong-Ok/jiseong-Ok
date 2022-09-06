@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=jiseong-Ok&fontSize=40)
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseong-Ok)](https://github.com/anuraghazra/github-readme-stats)
