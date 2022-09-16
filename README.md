@@ -29,3 +29,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
   </a>
 </div>
+
+</br>
+</br>
+
+Project
+-------------
+
+|Project|Goal|My Work|
+|------|---|---|
+|OCR(Optical Character Recognition)|Create end-to-end OCR model(korean)|Recognition, End-to-end model|
+|Hacking the Humanbody(Kaggle Competition)|Segment the FTUs in organs|Preprocessing, Implement|
+
