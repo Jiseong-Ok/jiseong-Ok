@@ -8,8 +8,7 @@
 
 </br>
 </br>
-</br>
-</br>
+
 
 <h3 align="center"><b>📚 Tech Stack 📚</b></h3>
 </br>
@@ -19,16 +18,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
 </p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-<div align="center"?
-  <a href="https://github.com/Jiseong-Ok">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
-  </a>
-</div>
 
 </br>
 </br>
@@ -38,6 +27,16 @@ Project
 
 |Project|Goal|My Work|
 |------|---|---|
-|OCR(Optical Character Recognition)|Create end-to-end OCR model(korean)|Recognition, End-to-end model|
-|Hacking the Humanbody(Kaggle Competition)|Segment the FTUs in organs|Preprocessing, Implement|
+|[OCR(Optical Character Recognition)](https://github.com/Jiseong-Ok/OCR-yolov5-SwinIR-STARNet)|Create end-to-end OCR model(korean)|Recognition, End-to-end model|
+|[Hacking the Humanbody(Kaggle Competition)](https://github.com/Jiseong-Ok/OCR-yolov5-SwinIR-STARNet)|Segment the FTUs in organs|Preprocessing, Implement|
+
+</br>
+</br>
+</br>
+
+<div align="center"?
+  <a href="https://github.com/Jiseong-Ok">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiseong-Ok&show_icons=true&theme=dark" />
+  </a>
+</div>
 
