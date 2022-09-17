@@ -28,7 +28,7 @@ Project
 |Project|Goal|My Work|
 |------|---|---|
 |[OCR(Optical Character Recognition)](https://github.com/Jiseong-Ok/OCR-yolov5-SwinIR-STARNet)|Create end-to-end OCR model(korean)|Recognition, End-to-end model|
-|[Hacking the Humanbody(Kaggle Competition)](https://github.com/Jiseong-Ok/OCR-yolov5-SwinIR-STARNet)|Segment the FTUs in organs|Preprocessing, Implement|
+|[Hacking the Humanbody(Kaggle Competition)](https://github.com/Jiseong-Ok/Unest269-semantic-segmentation)|Segment the FTUs in organs|Preprocessing, Implement|
 
 </br>
 </br>
